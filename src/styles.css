@@ -1,0 +1,28 @@
+input{
+   font-size: 1.5em;
+}
+body{
+   margin-top: 15%;
+   margin-bottom: 15%;
+   background-color: antiquewhite;
+}
+.form{
+   text-align: center;
+   border:200px;
+   }
+   .placeholder{
+    text-align: center;
+    padding: 15px;
+   }
+   .button{
+    text-align: center;
+    border: 0px;
+    width:100px;
+    border-radius: 14px;
+    font-size: .7emx;
+    background-color:#B2BEB5
+
+   }
+   .label{
+    font-weight:300
+   }
